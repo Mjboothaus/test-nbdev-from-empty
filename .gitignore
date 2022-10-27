@@ -1,3 +1,8 @@
+# Extras
+quarto-macos.pkg
+token
+CHANGELOG.bak
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
