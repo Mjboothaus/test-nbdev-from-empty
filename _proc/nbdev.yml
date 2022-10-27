@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test-nbdev-from-empty"
+  site-url: "https://Mjboothaus.github.io/test-nbdev-from-empty"
+  description: "Description of repo"
+  repo-branch: main
+  repo-url: "https://github.com/Mjboothaus/test-nbdev-from-empty"
